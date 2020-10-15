@@ -105,7 +105,7 @@ h1, h2, h3, h4, h5,
   .site-footer ul li {
     margin-bottom: 10px; }
   .site-footer .footer-heading {
-    font-size: 16px;
+    font-size: 20px;
     color: #fff;
     text-transform: uppercase;
     font-weight: 900; }
@@ -612,7 +612,7 @@ h1, h2, h3, h4, h5,
   .section-title-underline.style-2 {
     color: #fff; }
     .section-title-underline.style-2 span {
-      border-color: #51be78; }
+      border-color: #e40b0b; }
 
 .section-bg {
   background-size: cover;
@@ -628,7 +628,7 @@ h1, h2, h3, h4, h5,
       left: 0;
       right: 0;
       bottom: 0;
-      background: #183661;
+      background: #000;
       opacity: .9;
       z-index: 0; }
     .section-bg.style-1 > .container {
@@ -641,7 +641,7 @@ h1, h2, h3, h4, h5,
       color: #51be78;
       margin-bottom: 30px; }
     .section-bg.style-1 p {
-      color: #7697c6; }
+      color: #fff; }
 
 .news-updates {
   padding: 5rem 0; }
@@ -709,7 +709,7 @@ h1, h2, h3, h4, h5,
   display: inline-block;
   width: 40px;
   height: 40px;
-  background: #51be78;
+  background: #e40b0b;
   position: relative; }
   .social-wrap a > span {
     position: absolute;
@@ -738,7 +738,7 @@ h1, h2, h3, h4, h5,
   color: #000; }
 
 .ftco-testimonial-1 p {
-  color: #a2a2a2; }
+  color: #000; }
 
 .hero-slide {
   position: relative; }
@@ -931,9 +931,9 @@ h1, h2, h3, h4, h5,
       font-size: 15px; }
 
 .footer {
-  padding: 4rem 0;
+  padding: 2rem 0;
   background: #183661;
-  font-size: 14px;
+  font-size: 18px;
   color: #fff; }
   .footer .footer-heading {
     font-size: 16px;
@@ -946,7 +946,7 @@ h1, h2, h3, h4, h5,
     text-decoration: underline; }
   .footer .copyright {
     color: #fff;
-    padding-top: 7rem;
+    padding-top: 2rem;
     text-align: center; }
 
 .ftco-subscribe-1 {
