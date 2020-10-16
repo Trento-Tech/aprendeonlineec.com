@@ -593,12 +593,15 @@ h1, h2, h3, h4, h5,
     max-width: 400px; }
 
     .about-h1{
-
       font-size: 20px;
       text-align: justify;
       color: #000;
+    }
 
-
+    .precio-h3{
+      font-size: 42px;
+      text-align: center;
+      color: #e40b0b;
     }
 .custom-breadcrumns {
   padding: 20px 0; }
