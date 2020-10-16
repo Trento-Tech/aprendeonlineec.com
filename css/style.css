@@ -592,6 +592,14 @@ h1, h2, h3, h4, h5,
     font-size: 1.1rem;
     max-width: 400px; }
 
+    .about-h1{
+
+      font-size: 20px;
+      text-align: justify;
+      color: #000;
+
+
+    }
 .custom-breadcrumns {
   padding: 20px 0; }
   .custom-breadcrumns span, .custom-breadcrumns a {
@@ -701,7 +709,7 @@ h1, h2, h3, h4, h5,
       font-weight: bold;
       color: #303030; }
       .news-updates .post-entry-big .post-content .post-heading a:hover {
-        color: #51be78; }
+        color: #e40b0b; }
   .news-updates .post-entry-big.horizontal .img-link {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 90px;
