@@ -641,7 +641,9 @@ h1, h2, h3, h4, h5,
       color: #51be78;
       margin-bottom: 30px; }
     .section-bg.style-1 p {
-      color: #fff; }
+      color: #fff;
+      text-align: justify;
+    }
 
 .news-updates {
   padding: 5rem 0; }
@@ -720,7 +722,7 @@ h1, h2, h3, h4, h5,
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%); }
   .social-wrap a:hover {
-    background: #000; }
+    background: #ef8b76; }
 
 .block-number-1 .icon {
   color: #fff;
@@ -738,7 +740,9 @@ h1, h2, h3, h4, h5,
   color: #000; }
 
 .ftco-testimonial-1 p {
-  color: #000; }
+  color: #000;
+  text-align: justify;
+}
 
 .hero-slide {
   position: relative; }
@@ -904,7 +908,9 @@ h1, h2, h3, h4, h5,
     .course-1-item .category h3 {
       color: #fff;
       font-size: 20px;
-      margin-bottom: 0; }
+      margin-bottom: 0; 
+      text-align: center;
+    }
   .course-1-item .price {
     position: absolute;
     bottom: 0;
@@ -932,7 +938,7 @@ h1, h2, h3, h4, h5,
 
 .footer {
   padding: 2rem 0;
-  background: #183661;
+  background: #000;
   font-size: 18px;
   color: #fff; }
   .footer .footer-heading {
