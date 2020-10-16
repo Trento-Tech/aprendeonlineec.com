@@ -603,6 +603,17 @@ h1, h2, h3, h4, h5,
       text-align: center;
       color: #e40b0b;
     }
+    .precio-h1{
+      font-size: 16px;
+      text-align: center;
+      color: #000;
+    }
+    .precio-h2{
+      font-size: 16px;
+      text-align: center;
+      color: #000;
+      text-decoration: line-through;
+    }
 .custom-breadcrumns {
   padding: 20px 0; }
   .custom-breadcrumns span, .custom-breadcrumns a {
